@@ -188,7 +188,7 @@ def subtract_debit():
         print('accessing database..')
         
         cols = ['TRANS_ID','CATEGORY','AMOUNT','DESCR','DATETIME','BALANCE']
-        with open('checkbook_data_test2.csv','r') as f:
+        with open('checkbook_data_prod.csv','r') as f:
             content = csv.DictReader(f,fieldnames=cols)
             lines = []
             for line in content:
