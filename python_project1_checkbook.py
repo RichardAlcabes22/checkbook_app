@@ -14,7 +14,11 @@ Current Functionality:
     - view current balance
     - add a credit transaction
     - add a debit transaction
-    - view entire transaction history
+BONUS Fynctionality:
+    1: view entire transaction history
+    2: Date and Time of entries recorded in ledger as dtg (DateTimeGroup)
+    3: Assign Categories to entries
+    4: Allow for a Description of each entry
 
 Planned Functionality:
     - Create User README Doc

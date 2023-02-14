@@ -3,3 +3,4 @@ TRANS_ID,CATEGORY,AMOUNT,DESCR,DATETIME,BALANCE
 1002,credit,100,Birthday money,2023.2.14.16.42,100.01
 1003,credit,205.33,Won at casino,2023.2.14.16.44,305.34
 1004,credit,450.10,won at casino again!,2023.2.14.17.11,755.44
+1005,debit,54,lost at poker with Timmah and Mikey,2023.2.14.17.54,701.44
